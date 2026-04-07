@@ -1,1 +1,4 @@
-MRI-Project/data/ 
+MRI-Project/data/
+*.nii
+*.nii.gz
+*.zip

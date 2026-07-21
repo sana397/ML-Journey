@@ -94,4 +94,3 @@ I focus on understanding concepts deeply and implementing algorithms from scratc
 
 ---
 
-**Last Updated**: July 2026
